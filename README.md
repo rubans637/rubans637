@@ -54,7 +54,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <a href="https://www.hackerrank.com/rubans21cb" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
 </a>
-<a href="https://discord.gg/y6tetxsaqw" target="_blank">
+<a href="https://discord.com/users/443983355055177728" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"/>
 </a>
 </p>
