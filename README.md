@@ -124,35 +124,28 @@ Experiments with LLMs and AI-powered applications.
 
 ---
 
-## `05` // CONNECT WITH ME
+## `05`// CONNECT WITH ME
 
 <div align="center">
 
-<p>
-  <a href="https://github.com/rubans637">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/>
-  </a>
-  &nbsp;
-   <a href="https://linkedin.com/in/ruban-s">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logoColor=00F7FF&logo=linkedin&labelColor=0D1117" alt="LinkedIn"/>
+<a href="https://github.com/rubans637">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/>
 </a>
-  &nbsp;
-  <a href="https://instagram.com/_ruban._.jeeso_">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=BC13FE" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="mailto:srubanjeeso007@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email"/>
-  </a>
-</p>
+&nbsp;
+<a href="https://linkedin.com/in/ruban-s">
+  <img src="https://cdn.simpleicons.org/linkedin/00F7FF" width="22" height="22" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/_ruban._.jeeso_">
+  <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=BC13FE" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="mailto:srubanjeeso007@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email"/>
+</a>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:0057FF,100:BC13FE&height=2&section=header" width="70%" alt="Neon divider"/>
-
-<p>
-  <code> [ CONNECTION STATUS: OPEN ] </code>
-</p>
+</div>
 
 <h3>🔐 THINK SECURELY · CODE RESPONSIBLY</h3>
 
