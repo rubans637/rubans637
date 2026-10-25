@@ -134,8 +134,8 @@ Experiments with LLMs and AI-powered applications.
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/ruban-s">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn"/>
-  </a>
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn"/>
+</a>
   &nbsp;
   <a href="https://instagram.com/_ruban._.jeeso_">
     <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=BC13FE" alt="Instagram"/>
