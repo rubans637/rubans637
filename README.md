@@ -133,8 +133,8 @@ Experiments with LLMs and AI-powered applications.
     <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/ruban-s">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn"/>
+   <a href="https://linkedin.com/in/ruban-s">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logoColor=00F7FF&logo=linkedin&labelColor=0D1117" alt="LinkedIn"/>
 </a>
   &nbsp;
   <a href="https://instagram.com/_ruban._.jeeso_">
