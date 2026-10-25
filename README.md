@@ -1,74 +1,142 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" />
-
-<h1 align="center">Hi 👋, I'm Ruban</h1>
-<h3 align="center">Frontend Developer | Tech Enthusiast | Student</h3>
-
-<img align="right" alt="Coding" width="400"
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rubans637&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 👨‍💻 About Me
-- 🎓 Student at **PSNA College of Engineering and Technology, Dindigul**
-- 🌱 Learning **Full Stack Development & Cyber Security**
-- 💬 Ask me about **Web Development, Python, Gaming**
-- 📫 Reach me at **srubanjeeso007@gmail.com**
-- ⚡ Fun fact: **I love building projects & gaming**
-
----
-
-## 🔥 GitHub Contribution Highlights
-
-<h3 align="center">🚀 Total Contributions • Current Streak • Longest Streak</h3>
+ <!-- Replace the banner filename below with the actual image path in your repository -->
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubans637&theme=github_dark" />
+  <img src="./cybersecurity-banner.png" width="100%" alt="Ruban Cybersecurity Banner" />
+</p>
+
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00E5FF">Ruban</span>
+</h1>
+
+<h3 align="center">
+  🛡️ Cybersecurity Enthusiast | 💻 Frontend Developer | 🎓 M.E. CSE Student
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Exploring+the+World+of+Cybersecurity;Learning+Ethical+Hacking+%26+Network+Security;Building+Secure+and+Innovative+Projects;Code.+Secure.+Learn.+Repeat." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubans637&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubans637&theme=github_dark&utcOffset=5.5" />
+  <img src="https://komarev.com/ghpvc/?username=rubans637&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rubans637?label=Followers&style=for-the-badge&color=00e5ff&labelColor=0d1117" alt="GitHub followers" />
+</p>
+
+---
+
+## `whoami` — About Me
+
+```bash
+┌──(ruban㉿cybersec)-[~]
+└─$ whoami
+
+Name       : Ruban
+Education  : M.E. CSE — Cybersecurity
+Interests  : Cybersecurity, AI, Web Development
+Mindset    : Learn • Build • Secure • Repeat
+Mission    : Build technology that makes the digital
+             world safer.
+```
+
+- 🎓 Pursuing **M.E. CSE (Cybersecurity)**.
+- 🛡️ Exploring network security, Linux, ethical hacking, and security fundamentals.
+- 💻 Interested in secure web development, Python, and AI-powered applications.
+- 🔬 Building projects that combine programming, AI, and cybersecurity.
+- 🎮 Gamer who enjoys experimenting with technology.
+- 📫 Contact: **[srubanjeeso007@gmail.com](mailto:srubanjeeso007@gmail.com)**
+
+---
+
+## ⚔️ Cybersecurity Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Network%20Security-00E5FF?style=for-the-badge&logo=protonvpn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-00C853?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-7C4DFF?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure%20Coding-1565C0?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🧰 Languages, Tools & Technologies
+
+### Programming & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nodejs,sql" alt="Programming technologies" />
+</p>
+
+### Security & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,aws,gcp,vscode" alt="Security and infrastructure tools" />
+</p>
+
+> Currently expanding my knowledge of cybersecurity tools, operating systems, networking, and secure application development.
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/rubans637">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubans637&repo=react-portfolio-template&theme=tokyonight&hide_border=true" alt="Portfolio repository" />
+  </a>
+</p>
+
+- 🔐 **Cybersecurity Labs** — Linux permissions, access control, cryptography, and security experiments.
+- 🤖 **SentinelAI** — CCTV analytics and AI-powered monitoring.
+- 📝 **Tamil OCR** — OCR application for Tamil text extraction and processing.
+- 🌐 **Web Development Projects** — Interactive applications and portfolio development.
+
+*Replace or remove any project descriptions that don't match your published repositories.*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rubans637&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubans637&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rubans637&theme=highcontrast&hide_border=true" />
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=rubans637&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubans637&theme=tokyonight" alt="GitHub contribution summary" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
-<p align="left">
-<a href="https://twitter.com/rdxruban" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
-</a>
-<a href="https://linkedin.com/in/ruban-s" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-<a href="https://instagram.com/_ruban._.jeeso_" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-</a>
-<a href="https://www.hackerrank.com/rubans21cb" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
-</a>
-<a href="https://discord.com/users/443983355055177728" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"/>
-</a>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/rubans637">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ruban-s">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_ruban._.jeeso_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:srubanjeeso007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00BCD4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0057FF,100:111827&height=120&section=footer" width="100%" alt="Cyber-themed footer" />
+</p>
+
+<h3 align="center">
+  🔐 Secure the code. Protect the data. Build the future.
+</h3>
+
+<p align="center">
+  <i>"Every vulnerability is an opportunity to learn."</i>
 </p>
