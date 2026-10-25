@@ -124,7 +124,7 @@ Experiments with LLMs and AI-powered applications.
 
 ---
 
-## `05`// CONNECT WITH ME
+## `05` // CONNECT WITH ME
 
 <div align="center">
 
@@ -133,8 +133,7 @@ Experiments with LLMs and AI-powered applications.
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/ruban-s">
-  <img src="https://cdn.simpleicons.org/linkedin/00F7FF" width="22" height="22" alt="LinkedIn"/>
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/_ruban._.jeeso_">
@@ -145,12 +144,15 @@ Experiments with LLMs and AI-powered applications.
   <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email"/>
 </a>
 
-</div>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:0057FF,100:BC13FE&height=2&section=header" width="65%" alt="Neon divider"/>
+
+<p><code>[ CONNECTION STATUS: OPEN ]</code></p>
 
 <h3>🔐 THINK SECURELY · CODE RESPONSIBLY</h3>
 
 <p><i>Exploring the digital frontier, one commit at a time.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,50:0057FF,100:BC13FE&section=footer" width="100%" alt="Cyberpunk footer"/>
-
+</div>
 </div>
