@@ -124,31 +124,40 @@ Experiments with LLMs and AI-powered applications.
 
 ---
 
-## `05` // ESTABLISH CONNECTION
+## `05` // CONNECT WITH ME
 
 <div align="center">
 
-<a href="https://github.com/rubans637">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/ruban-s">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/_ruban._.jeeso_">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:srubanjeeso007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-00BCD4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p>
+  <a href="https://github.com/rubans637">
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ruban-s">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/_ruban._.jeeso_">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=BC13FE" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:srubanjeeso007@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email"/>
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E5FF,50:0057FF,100:7C4DFF&section=footer" width="100%" alt="Neon cyber footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:0057FF,100:BC13FE&height=2&section=header" width="70%" alt="Neon divider"/>
 
-<h3>🔐 Think Securely. Code Responsibly. Keep Exploring.</h3>
+<p>
+  <code> [ CONNECTION STATUS: OPEN ] </code>
+</p>
 
-<p><i>"Every vulnerability is an opportunity to learn."</i></p>
+<h3>🔐 THINK SECURELY · CODE RESPONSIBLY</h3>
 
-<sub>Building skills one commit at a time.</sub>
+<p><i>Exploring the digital frontier, one commit at a time.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,50:0057FF,100:BC13FE&section=footer" width="100%" alt="Cyberpunk footer"/>
 
 </div>
