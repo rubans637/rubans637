@@ -16,7 +16,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🎓 Student at **PSNA College of Engineering and Technology, Dindigul**
 - 🌱 Learning **Full Stack Development & Cyber Security**
 - 💬 Ask me about **Web Development, Python, Gaming**
-- 📫 Reach me at **rubans21cb@psnacet.edu.in**
+- 📫 Reach me at **srubanjeeso007@gmail.com**
 - ⚡ Fun fact: **I love building projects & gaming**
 
 ---
